@@ -1,4 +1,4 @@
-# LeetCode SQL 50 — My Solutions
+# LeetCode SQL 50 - My Solutions
 
 My solutions to the [SQL 50](https://leetcode.com/studyplan/top-sql-50/) study plan on LeetCode, a curated set of 50 problems covering everything from basic `SELECT` filtering to window functions.
 
