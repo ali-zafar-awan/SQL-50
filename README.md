@@ -37,7 +37,7 @@ WHERE referee_id <> 2 OR referee_id IS NULL;
 
 | # | Category | Problems | Status |
 |---|----------|----------|--------|
-| 1 | Select | 5 | ⬜ 2/5 |
+| 1 | Select | 5 | ⬜ 5/5 |
 | 2 | Basic Joins | 5 | ⬜ 0/5 |
 | 3 | Basic Aggregation | 5 | ⬜ 0/5 |
 | 4 | Sorting and Grouping | 4 | ⬜ 0/4 |
@@ -45,7 +45,7 @@ WHERE referee_id <> 2 OR referee_id IS NULL;
 | 6 | Subqueries | 5 | ⬜ 0/5 |
 | 7 | Advanced String Functions / Regex / Clause | 5 | ⬜ 0/5 |
 
-**Total: 2 / 50** — updated as I go.
+**Total: 5 / 50** — updated as I go.
 
 ## 🧠 Concepts Covered
 
